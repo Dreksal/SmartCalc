@@ -10,6 +10,6 @@ Just compile and run this program in the terminal and type some expressions. It'
 © 2023 Dariusz Jaskiewicz. All rights reserved.
 
 ## Installation
-1. Open in a terminal directory, where you downloaded this app, and go to “smartCalculator” and then “src” file.
+1. Open in a terminal directory, where you downloaded this app, and go to “SmartCalc” and then “src” file.
 2. Nextly, type the command “javac kalkulator/Main.java”
 3. Lastly, type “java kalkulator.Main” to run the program. Enjoy!
