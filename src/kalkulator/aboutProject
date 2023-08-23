@@ -1,0 +1,18 @@
+SMART_CALCULATOR
+
+Type your expression like in your math's notebook! For example: (123 - 52)/18 - 6
+Type "/exit" to terminate the program.
+Type "/help" to get more information about this app.
+You can assign value to variable, type your variable name and next use "=" operator and your value to assign it.
+Apps supports operations like: addition "+", multiplication "*", subtraction "-", division "/", powers "^" and calculations in parentheses "()".
+Name of the variable only can have letters (case sensitive) and underscore ("_").
+Type "/rules" to get more information about variables naming rules.
+If you want to see your previous inputs, type "/history".
+If you want to see every variable you put in the program, type "/variables".
+
+© 2023 Dariusz Jaskiewicz. All rights reserved.
+
+
+
+
+
